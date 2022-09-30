@@ -1,0 +1,28 @@
+body {
+    background-image: url(../images/1.jpg);
+}
+
+.letter {
+    padding: 30px 10px 10px 10px;
+    justify-self: baseline;
+    color: rgb(255, 0, 0);
+    font-family: Gabriola;
+    font-size: 19px;
+    font-weight: bold;
+    word-spacing: 1px;
+}
+
+.dear {
+    font-size: 26px;
+}
+
+.para {
+    margin-left: 10px;
+    text-align: justify;
+}
+
+.end {
+    font-size: 26px;
+    text-align: end;
+    margin-top: 10px
+}
